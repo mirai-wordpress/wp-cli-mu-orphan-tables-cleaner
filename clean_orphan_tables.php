@@ -2,9 +2,6 @@
 
 if ( defined( 'WP_CLI' ) && WP_CLI ) {
 
-	/**
-	 * A robust random post generator built for developers.
-	 */
 	class Orphan_Tables extends WP_CLI_Command {
 
 		protected $db;
