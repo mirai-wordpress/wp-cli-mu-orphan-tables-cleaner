@@ -1,0 +1,21 @@
+{
+  "name": "mirai-wordpress/wp-cli-mu-orphan-tables-cleaner",
+  "description": "WP-CLI command for cleaning orphan tables on Wordpress Multisite installations. List, generate drop statements, or drop orphan tables",
+  "type": "wp-cli-package",
+  "keywords": ["wp-cli", "wordpress", "multisite", "orphan tables"],
+  "homepage": "http://www.mirai.com",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Mirai",
+      "email": "info@mirai.com",
+      "homepage": "http://www.mirai.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "files": ["clean_orphan_tables.php"]
+  }
+}
