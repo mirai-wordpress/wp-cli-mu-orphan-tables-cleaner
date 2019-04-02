@@ -4,11 +4,11 @@
   "type": "wp-cli-package",
   "keywords": ["wp-cli", "wordpress", "multisite", "orphan tables"],
   "homepage": "http://www.mirai.com",
-  "license": "GPLv2",
+  "license": "GPL-2.0+",
   "authors": [
     {
-      "name": "Mirai",
-      "email": "info@mirai.com",
+      "name": "Mirai DEV Team",
+      "email": "webdev@mirai.com",
       "homepage": "http://www.mirai.com"
     }
   ],
