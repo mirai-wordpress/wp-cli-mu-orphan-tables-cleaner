@@ -22,3 +22,6 @@ wp orphan_tables drop_tables
 
 ### 1.0
 Initial Release
+
+### 1.1
+Added some informative messages
