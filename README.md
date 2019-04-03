@@ -4,7 +4,7 @@ WP-CLI command for cleaning orphan tables on Wordpress Multisite installations. 
 
 
 ## Installation
-wp package install mirai-wordpress/wp-cli-mu-orphan-tables-cleaner:dev-master
+wp package install mirai-wordpress/wp-cli-mu-orphan-tables-cleaner
 
 ## Commands
 
